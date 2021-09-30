@@ -1,2 +1,2 @@
 # CV_AzureCode
-Example Azure scripts for Infrastructure-as-a-Code administration
+Example Azure scripts for Azure Cloud infrastructure administration via Azure CLI and PowerShell scripting
