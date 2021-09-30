@@ -1,6 +1,6 @@
 #configure_public_LoadBalancer
 
-# Deploy the patient portal web application
+# Deploy the test portal web application
 
 # clone the repo that contains the source for the app and runs the setup script from GitHub
 git clone https://github.com/MicrosoftDocs/mslearn-improve-app-scalability-resiliency-with-load-balancer.git
